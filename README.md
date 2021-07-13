@@ -1,1 +1,1 @@
-# Pavel-Berezhnoy.github.io
+permalink: /index.php
