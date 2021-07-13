@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="gorodskie-meropriyatiya.site" id="ed272744-04f8-42e3-9f85-18ee7200c9fa" port="22" nameFormat="DESCRIPTIVE" username="m90817so_pavel" />
+    </configs>
+  </component>
+</project>

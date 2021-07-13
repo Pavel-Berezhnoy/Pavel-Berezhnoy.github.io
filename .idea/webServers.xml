@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b47938cd-e720-41cd-b85f-0ff3d2950b7e" name="beget">
+        <fileTransfer rootFolder="/home/m/m90817so/gorodskie-meropriyatiya.site/public_html" accessType="SFTP" host="gorodskie-meropriyatiya.site" port="22" sshConfigId="ed272744-04f8-42e3-9f85-18ee7200c9fa" sshConfig="m90817so_pavel@gorodskie-meropriyatiya.site:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
